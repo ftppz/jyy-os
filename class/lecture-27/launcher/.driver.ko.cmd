@@ -1,0 +1,1 @@
+savedcmd_/home/lff/code/os/jyy-os/lecture-27/launcher/driver.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/lff/code/os/jyy-os/lecture-27/launcher/driver.ko /home/lff/code/os/jyy-os/lecture-27/launcher/driver.o /home/lff/code/os/jyy-os/lecture-27/launcher/driver.mod.o
